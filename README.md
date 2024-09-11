@@ -10,6 +10,6 @@
 
 | Project | Technologies | Description |
 |----------|----------|----------|
-| [ft_printf](https://github.com/kaiocampos/libft-42rio)   | C | A `printf` implementation |
+| [Libft](https://github.com/kaiocampos/libft-42rio)   | C | A `printf` implementation |
 
 </div>
