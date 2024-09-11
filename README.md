@@ -6,6 +6,10 @@
   <img height="400px" src="./assets/42_rio_logo_white.png">
 </p>
 
-| Project                                                      | Technologies     | Description                                                                                                                        | Grade             |
-| ------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [ft_printf](https://github.com/kaiocampos/libft-42rio)         | C                | A `printf` implementation.                                                                                                         | 100/100           |
+<div align="center">
+
+| Project | Technologies | Description |
+|----------|----------|----------|
+| [ft_printf](https://github.com/kaiocampos/libft-42rio)   | C | A `printf` implementation |
+
+</div>
